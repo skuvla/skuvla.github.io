@@ -1,0 +1,9 @@
+﻿body {background-color: #fff9d1; font-family: verdana, arial, times; margin: 2cm}
+h1 {color: red; text-align: center}
+h2 {color: brown; text-align: center}
+h3 {color: green}
+h4 {color: purple; text-align: center}
+tr {border: 2; background-color: #ffcf77}
+td {padding: 6mm}
+p.margin {margin-left: 3cm; font-style: italic; font-face: times, times new roman}
+note {font-size: 80%}
