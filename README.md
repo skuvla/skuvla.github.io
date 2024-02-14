@@ -1,2 +1,3 @@
-# skuvla
-The files from Sámi skuvlajistorjá, skuvla.info
+# Skuvla
+
+The files from Sámi skuvlajistorjá, skuvla.info.
